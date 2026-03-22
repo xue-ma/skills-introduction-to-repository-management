@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @xue-ma
+/src/backend/database.py      @xue-ma
+/src/backend/routers/auth.py  @xue-ma
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @xue-ma
